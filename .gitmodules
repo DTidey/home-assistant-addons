@@ -1,6 +1,3 @@
-[submodule "hass-backup-s3"]
-	path = maria-db
-	url = https://github.com/DTidey/mariadb
 [submodule "mariadb"]
 	path = mariadb
 	url = https://github.com/DTidey/mariadb
