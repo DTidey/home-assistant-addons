@@ -1,3 +1,6 @@
 [submodule "mariadb"]
 	path = mariadb
 	url = https://github.com/DTidey/mariadb
+[submodule "n8n-mcp"]
+	path = n8n-mcp
+	url = https://github.com/DTidey/n8n-mcp
